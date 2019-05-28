@@ -1,0 +1,113 @@
+---
+- hosts: all
+  remote_user: mirkoszy
+  tasks:
+  - name: Checking connectivity
+    become: yes
+    ping:
+  - name: Downloading repo
+    git:
+      repo: 'https://github.com/mirkoszy/master_thesis.git'
+      dest: /users/mirkoszy/master_thesis
+  - name: Install packages
+    apt: 
+      name:
+        - python3
+        - python3-pip
+        - python-pip
+      state: present
+      update_cache: yes
+    become: true
+
+
+######## DOCKER ###########
+- hosts: docker
+  remote_user: mirkoszy
+  become:  yes
+  tasks:
+  - name: Remove old versions
+    apt:
+      name:
+        - docker
+        - docker-engine
+        - docker.io
+        - containerd
+        - runc
+      state: absent
+  - name: Install prerequsites
+    apt:
+      name:
+        - apt-transport-https
+        - ca-certificates
+        - curl
+        - gnupg-agent
+        - software-properties-common
+      state: present
+  - name: Add docker GPG key
+    apt_key:
+      id: 0EBFCD88
+      url: https://download.docker.com/linux/ubuntu/gpg
+      state: present
+  - name: Add docker repository
+    apt_repository:
+      repo: deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable
+      state: present
+  - name: Update the apt package index
+    apt:
+      update_cache: yes
+  - name: Install docker
+    apt:
+      name:
+        - docker-ce
+        - docker-ce-cli
+        - containerd.io
+      state: present
+  - name: Create "docker" group
+    group:
+      name: docker
+      state: present
+  - name: Add remote user to docker group
+    user:
+      name: mirkoszy
+      group: docker
+      append: yes
+
+
+######## PODMAN ###########
+- hosts: podman
+  become: true
+  remote_user: mirkoszy
+  tasks:
+  - name: Install prerequsites for podman
+    apt:
+      name:
+        - software-properties-common 
+        - uidmap 
+      state: present
+  - name: Add repository
+    apt_repository:
+      repo: ppa:projectatomic/ppa
+      state: present
+  - name: Update repository
+    apt:
+      update_cache: yes
+  - name: Install podman
+    apt:
+      name:
+        - podman
+      state: present 
+
+
+######## KVM ###########
+- hosts: kvm
+  become: true
+  remote_user: mirkoszy
+  roles:
+    - role: ansible-kvm
+  tasks:
+  - name: Install virt-install
+    apt:
+      name:
+        - virtinst
+      state: present
+
