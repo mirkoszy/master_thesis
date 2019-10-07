@@ -6,10 +6,9 @@ sudo apt install -y python3 python3-pip python-pip htop stress-ng wget openssl b
 
 git clone https://github.com/wg/wrk.git wrk
 
-#cd wrk && make && cp wrk /usr/local/bin
+cd wrk && make && cp wrk /usr/local/bin
 
 git clone https://github.com/jeffhammond/STREAM.git
 
-cd STREAM/  && gcc -O2 -fopenmp stream.c -o stream
+cd STREAM/  && gcc -O2 -fopenmp stream.c -o ../stream
 
-export OMP_NUM_THREADS=16
