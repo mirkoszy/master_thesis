@@ -1,0 +1,11 @@
+[native]
+ms0818.utah.cloudlab.us ansible_ssh_private_key_file=/Users/mszewczyk/.ssh/github
+
+[docker]
+ms0818.utah.cloudlab.us ansible_ssh_private_key_file=/Users/mszewczyk/.ssh/github
+
+[kvm]
+ms0818.utah.cloudlab.us ansible_ssh_private_key_file=/Users/mszewczyk/.ssh/github
+
+[podman]
+ms0818.utah.cloudlab.us ansible_ssh_private_key_file=/Users/mszewczyk/.ssh/github

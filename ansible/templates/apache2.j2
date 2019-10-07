@@ -1,0 +1,10 @@
+ServerTokens OS
+ServerRoot "/etc/apache2"
+PidFile run/apache2.run
+Timeout 50
+KeepAlive Off
+MaxKepepAliveRequests 100
+KeepAliveTimeout 15
+Alias {{ doc_dir }} {{ doc_root }}
+Listen {{ http_port }}
+MaxClients {{ max_clients }}

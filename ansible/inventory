@@ -1,0 +1,12 @@
+
+[native]
+ms0818.utah.cloudlab.us ansible_ssh_private_key=/home/mszewczyk/.ssh/id_dsa
+
+[docker]
+ms0818.utah.cloudlab.us ansible_ssh_private_key=/home/mszewczyk/.ssh/id_dsa
+
+[kvm]
+ms0818.utah.cloudlab.us ansible_ssh_private_key=/home/mszewczyk/.ssh/id_dsa
+
+[podman]
+ms0818.utah.cloudlab.us ansible_ssh_private_key=/home/mszewczyk/.ssh/id_dsa
