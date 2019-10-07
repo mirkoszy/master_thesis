@@ -25,9 +25,14 @@
         - python3-pip
         - python-pip
         - htop
+        - g++ 
+        - build-essential
+        - pkg-config
       state: present
       update_cache: yes
     become: true
+  - name: Install benchamrk tools on native
+    script: master_thesis/prepare_vm.sh
 
 
 ######## DOCKER ###########
