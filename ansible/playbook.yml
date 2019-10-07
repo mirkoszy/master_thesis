@@ -5,6 +5,15 @@
   - name: Checking connectivity
     become: yes
     ping:
+  - name: Udate packages
+    become: yes
+    apt:
+      update_cache: yes
+  - name: Set user password
+    become: yes
+    user:
+      name: mirkoszy 
+      password: "{{ '12345' | password_hash('sha512') }}"
   - name: Downloading repo
     git:
       repo: 'https://github.com/mirkoszy/master_thesis.git'
@@ -15,6 +24,7 @@
         - python3
         - python3-pip
         - python-pip
+        - htop
       state: present
       update_cache: yes
     become: true
@@ -102,12 +112,24 @@
 - hosts: kvm
   become: true
   remote_user: mirkoszy
-  roles:
-    - role: ansible-kvm
   tasks:
-  - name: Install virt-install
+  - name: Install packages
     apt:
       name:
-        - virtinst
+        - qemu-kvm
+        - libvirt-bin
+        - bridge-utils 
+        - virt-manager
       state: present
 
+#- hosts: kvm
+#  become: true
+#  remote_user: mirkoszy
+#  roles:
+#    - role: ansible-kvm
+#  tasks:
+#  - name: Install virt-install
+#    apt:
+#      name:
+#        - virtinst
+#      state: present
