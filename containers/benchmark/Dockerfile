@@ -10,4 +10,4 @@ RUN cd wrk && make && cp wrk /usr/local/bin
 
 RUN git clone https://github.com/jeffhammond/STREAM.git
 
-RUN cd STREAM/  && make all
+RUN cd STREAM/  && gcc -O2 -fopenmp stream.c -o ../stream
