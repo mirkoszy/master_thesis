@@ -33,4 +33,4 @@ stress-ng --cpu 16 --matrix 16 -t 300 --matrix-method hadamard --metrics-brief 2
 
 echo "FFT BOGOS/s: $(cat ${OUTPUT}/fft-output.txt | grep cpu | awk '{print $9}')" >> "${RESULT_FILE}"
 echo "PI BOGOS/s: $(cat ${OUTPUT}/pi-output.txt | grep cpu | awk '{print $9}')" >>  "${RESULT_FILE}"
-echo "MATRIX BOGOS/s: $(cat ${OUTPUT}/matrix-output.txt | grep matrix | awk '{print $9}')" >> "${RESULT_FILE}"
+echo "MATRIX BOGOS/s: $(cat ${OUTPUT}/matrix-output.txt | grep cpu | awk '{print $9}')" >> "${RESULT_FILE}"
