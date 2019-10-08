@@ -1,5 +1,5 @@
 OUTPUT=/master_thesis/outputs
-RESULT_FILE="${OUTPUT}/result.txt"
+RESULT_FILE="${OUTPUT}/result.out"
 cipher_commands="md5 sha512 aes-256-cbc rsa2048 dsa2048"
 for test in ${cipher_commands}; do
     echo "Running openssl speed ${test} test"
@@ -27,10 +27,12 @@ for test in ${cipher_commands}; do
     esac
 done
 
-stress-ng --cpu 16 --cpu-method fft -t 300 --metrics-brief 2>  "${OUTPUT}/fft-output.txt"
-stress-ng --cpu 16 --cpu-method pi -t 300 --metrics-brief 2> "${OUTPUT}/pi-output.txt"
-stress-ng --cpu 16 --matrix 16 -t 300 --matrix-method hadamard --metrics-brief 2> "${OUTPUT}/matrix-output.txt"
+stress-ng --cpu 16 --cpu-method fft -t 60 --metrics-brief 2>  "${OUTPUT}/fft-output.txt"
+stress-ng --cpu 16 --cpu-method pi -t 60 --metrics-brief 2> "${OUTPUT}/pi-output.txt"
+stress-ng --cpu 16 --matrix 16 -t 60 --matrix-method hadamard --metrics-brief 2> "${OUTPUT}/matrix-output.txt"
 
 echo "FFT BOGOS/s: $(cat ${OUTPUT}/fft-output.txt | grep cpu | awk '{print $9}')" >> "${RESULT_FILE}"
 echo "PI BOGOS/s: $(cat ${OUTPUT}/pi-output.txt | grep cpu | awk '{print $9}')" >>  "${RESULT_FILE}"
 echo "MATRIX BOGOS/s: $(cat ${OUTPUT}/matrix-output.txt | grep cpu | awk '{print $9}')" >> "${RESULT_FILE}"
+
+rm ${OUTPUT}/*.txt
