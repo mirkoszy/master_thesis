@@ -27,9 +27,9 @@ for test in ${cipher_commands}; do
     esac
 done
 
-stress-ng --cpu 16 --cpu-method fft -t 10 --metrics-brief 2>  "${OUTPUT}/fft-output.txt"
-stress-ng --cpu 16 --cpu-method pi -t 10 --metrics-brief 2> "${OUTPUT}/pi-output.txt"
-stress-ng --cpu 16 --matrix 16 -t 10 --matrix-method hadamard --metrics-brief 2> "${OUTPUT}/matrix-output.txt"
+stress-ng --cpu 16 --cpu-method fft -t 300 --metrics-brief 2>  "${OUTPUT}/fft-output.txt"
+stress-ng --cpu 16 --cpu-method pi -t 300 --metrics-brief 2> "${OUTPUT}/pi-output.txt"
+stress-ng --cpu 16 --matrix 16 -t 300 --matrix-method hadamard --metrics-brief 2> "${OUTPUT}/matrix-output.txt"
 
 echo "FFT BOGOS/s: $(cat ${OUTPUT}/fft-output.txt | grep cpu | awk '{print $9}')" >> "${RESULT_FILE}"
 echo "PI BOGOS/s: $(cat ${OUTPUT}/pi-output.txt | grep cpu | awk '{print $9}')" >>  "${RESULT_FILE}"
