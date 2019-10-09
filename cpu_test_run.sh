@@ -1,4 +1,4 @@
-OUTPUT=/master_thesis/outputs
+OUTPUT=~/master_thesis/outputs
 RESULT_FILE="${OUTPUT}/result.out"
 cipher_commands="md5 sha512 aes-256-cbc rsa2048 dsa2048"
 for test in ${cipher_commands}; do
