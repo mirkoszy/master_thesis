@@ -14,3 +14,5 @@ RUN cd STREAM/  && gcc -O2 -fopenmp stream.c -o ../stream
 
 RUN git clone https://github.com/mirkoszy/master_thesis
 
+RUN wget https://www.passmark.com/downloads/bitlinux.tar.gz && tar -xvf bitlinux.tar.gz
+
