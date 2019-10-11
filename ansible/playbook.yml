@@ -30,9 +30,10 @@
         - pkg-config
       state: present
       update_cache: yes
-    become: true
+    become: yes
   - name: Install benchamrk tools on native
-    script: master_thesis/prepare_vm.sh
+    command: /users/mirkoszy/master_thesis/prepare_vm.sh
+    become: yes
 
 
 ######## DOCKER ###########
