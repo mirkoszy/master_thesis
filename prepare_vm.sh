@@ -14,4 +14,4 @@ cd /users/mirkoszy/ && git clone https://github.com/jeffhammond/STREAM.git
 
 cd STREAM && gcc -O2 -fopenmp stream.c -o ../stream
 
-cd /users/mirkoszy/ wget https://www.passmark.com/downloads/bitlinux.tar.gz && tar -xvf bitlinux.tar.gz
+cd /users/mirkoszy/ && wget https://www.passmark.com/downloads/bitlinux.tar.gz && tar -xvf bitlinux.tar.gz
