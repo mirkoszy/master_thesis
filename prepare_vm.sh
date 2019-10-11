@@ -8,8 +8,8 @@ git clone https://github.com/wg/wrk.git wrk
 
 cd wrk && make && sudo cp wrk /usr/local/bin
 
-git clone https://github.com/jeffhammond/STREAM.git
+cd ~/ && git clone https://github.com/jeffhammond/STREAM.git
 
-cd ../STREAM/  && gcc -O2 -fopenmp stream.c -o ../stream
+cd STREAM/  && gcc -O2 -fopenmp stream.c -o ../stream
 
 cd ~/ wget https://www.passmark.com/downloads/bitlinux.tar.gz && tar -xvf bitlinux.tar.gz
