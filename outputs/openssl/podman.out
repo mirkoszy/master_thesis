@@ -1,0 +1,340 @@
+rsa2048-sign pass 8718.5 sign/s
+rsa2048-verify pass 307423.9 verify/s
+dsa2048-sign pass 20437.8 sign/s
+dsa2048-verify pass 24424.4 verify/s
+FFT BOGOS/s: 
+4038.34
+PI BOGOS/s: 
+4506203.13
+MATRIX BOGOS/s: matrix
+1026.81
+rsa2048-sign pass 8653.3 sign/s
+rsa2048-verify pass 305811.2 verify/s
+dsa2048-sign pass 20309.9 sign/s
+dsa2048-verify pass 24558.6 verify/s
+FFT BOGOS/s: 
+4066.46
+PI BOGOS/s: 
+4504775.83
+MATRIX BOGOS/s: matrix
+1018.83
+rsa2048-sign pass 8616.9 sign/s
+rsa2048-verify pass 304328.7 verify/s
+dsa2048-sign pass 20597.4 sign/s
+dsa2048-verify pass 24565.6 verify/s
+FFT BOGOS/s: 
+4049.60
+PI BOGOS/s: 
+4495738.57
+MATRIX BOGOS/s: matrix
+1021.99
+rsa2048-sign pass 8714.4 sign/s
+rsa2048-verify pass 306490.9 verify/s
+dsa2048-sign pass 20634.3 sign/s
+dsa2048-verify pass 24453.4 verify/s
+FFT BOGOS/s: 
+4058.61
+PI BOGOS/s: 
+4503869.37
+MATRIX BOGOS/s: matrix
+1031.01
+rsa2048-sign pass 8716.2 sign/s
+rsa2048-verify pass 307234.5 verify/s
+dsa2048-sign pass 20561.2 sign/s
+dsa2048-verify pass 24379.6 verify/s
+FFT BOGOS/s: 
+4049.51
+PI BOGOS/s: 
+4505995.12
+MATRIX BOGOS/s: matrix
+1018.96
+rsa2048-sign pass 8717.0 sign/s
+rsa2048-verify pass 306350.4 verify/s
+dsa2048-sign pass 20592.3 sign/s
+dsa2048-verify pass 24201.1 verify/s
+FFT BOGOS/s: 
+4062.24
+PI BOGOS/s: 
+4505293.70
+MATRIX BOGOS/s: matrix
+1027.03
+rsa2048-sign pass 8709.8 sign/s
+rsa2048-verify pass 308054.8 verify/s
+dsa2048-sign pass 20588.0 sign/s
+dsa2048-verify pass 24273.5 verify/s
+FFT BOGOS/s: 
+4074.30
+PI BOGOS/s: 
+4505880.56
+MATRIX BOGOS/s: matrix
+1025.80
+rsa2048-sign pass 8715.2 sign/s
+rsa2048-verify pass 306355.1 verify/s
+dsa2048-sign pass 20630.3 sign/s
+dsa2048-verify pass 24483.7 verify/s
+FFT BOGOS/s: 
+4047.27
+PI BOGOS/s: 
+4505147.49
+MATRIX BOGOS/s: matrix
+1007.49
+rsa2048-sign pass 8718.7 sign/s
+rsa2048-verify pass 307076.5 verify/s
+dsa2048-sign pass 20629.2 sign/s
+dsa2048-verify pass 24470.7 verify/s
+FFT BOGOS/s: 
+4063.79
+PI BOGOS/s: 
+4505617.51
+MATRIX BOGOS/s: matrix
+1021.42
+rsa2048-sign pass 8716.9 sign/s
+rsa2048-verify pass 307809.6 verify/s
+dsa2048-sign pass 20591.8 sign/s
+dsa2048-verify pass 24346.7 verify/s
+FFT BOGOS/s: 
+4035.86
+PI BOGOS/s: 
+4503548.12
+MATRIX BOGOS/s: matrix
+1015.15
+rsa2048-sign pass 8720.2 sign/s
+rsa2048-verify pass 306728.0 verify/s
+dsa2048-sign pass 20511.4 sign/s
+dsa2048-verify pass 24584.8 verify/s
+FFT BOGOS/s: 
+4051.85
+PI BOGOS/s: 
+4505829.81
+MATRIX BOGOS/s: matrix
+1026.86
+rsa2048-sign pass 8663.1 sign/s
+rsa2048-verify pass 303639.2 verify/s
+dsa2048-sign pass 20608.9 sign/s
+dsa2048-verify pass 24288.7 verify/s
+FFT BOGOS/s: 
+4033.17
+PI BOGOS/s: 
+4505278.24
+MATRIX BOGOS/s: matrix
+1027.62
+rsa2048-sign pass 8709.9 sign/s
+rsa2048-verify pass 306460.2 verify/s
+dsa2048-sign pass 20624.6 sign/s
+dsa2048-verify pass 24414.3 verify/s
+FFT BOGOS/s: 
+4063.65
+PI BOGOS/s: 
+4501723.71
+MATRIX BOGOS/s: matrix
+1020.95
+rsa2048-sign pass 8633.3 sign/s
+rsa2048-verify pass 303689.0 verify/s
+dsa2048-sign pass 20591.7 sign/s
+dsa2048-verify pass 24509.3 verify/s
+FFT BOGOS/s: 
+4060.21
+PI BOGOS/s: 
+4504658.84
+MATRIX BOGOS/s: matrix
+1020.29
+rsa2048-sign pass 8717.3 sign/s
+rsa2048-verify pass 307094.6 verify/s
+dsa2048-sign pass 20634.8 sign/s
+dsa2048-verify pass 24349.0 verify/s
+FFT BOGOS/s: 
+4058.18
+PI BOGOS/s: 
+4503132.92
+MATRIX BOGOS/s: matrix
+1017.22
+rsa2048-sign pass 8721.1 sign/s
+rsa2048-verify pass 306767.1 verify/s
+dsa2048-sign pass 20589.3 sign/s
+dsa2048-verify pass 24488.8 verify/s
+FFT BOGOS/s: 
+4048.07
+PI BOGOS/s: 
+4505300.33
+MATRIX BOGOS/s: matrix
+1023.08
+rsa2048-sign pass 8718.8 sign/s
+rsa2048-verify pass 307157.2 verify/s
+dsa2048-sign pass 20597.0 sign/s
+dsa2048-verify pass 24407.9 verify/s
+FFT BOGOS/s: 
+4044.07
+PI BOGOS/s: 
+4501870.82
+MATRIX BOGOS/s: matrix
+1022.09
+rsa2048-sign pass 8718.1 sign/s
+rsa2048-verify pass 307894.7 verify/s
+dsa2048-sign pass 20616.7 sign/s
+dsa2048-verify pass 24315.9 verify/s
+FFT BOGOS/s: 
+4066.66
+PI BOGOS/s: 
+4503639.67
+MATRIX BOGOS/s: matrix
+1003.39
+rsa2048-sign pass 8708.1 sign/s
+rsa2048-verify pass 307310.5 verify/s
+dsa2048-sign pass 20587.9 sign/s
+dsa2048-verify pass 24427.8 verify/s
+FFT BOGOS/s: 
+4068.05
+PI BOGOS/s: 
+4500405.06
+MATRIX BOGOS/s: matrix
+1036.37
+rsa2048-sign pass 8720.0 sign/s
+rsa2048-verify pass 306930.9 verify/s
+dsa2048-sign pass 20625.2 sign/s
+dsa2048-verify pass 24495.0 verify/s
+FFT BOGOS/s: 
+4045.24
+PI BOGOS/s: 
+4502181.35
+MATRIX BOGOS/s: matrix
+1001.06
+rsa2048-sign pass 8645.4 sign/s
+rsa2048-verify pass 302979.6 verify/s
+dsa2048-sign pass 20452.8 sign/s
+dsa2048-verify pass 24454.3 verify/s
+FFT BOGOS/s: 
+4060.32
+PI BOGOS/s: 
+4503535.75
+MATRIX BOGOS/s: matrix
+1029.08
+rsa2048-sign pass 8698.7 sign/s
+rsa2048-verify pass 305944.5 verify/s
+dsa2048-sign pass 20597.7 sign/s
+dsa2048-verify pass 24445.7 verify/s
+FFT BOGOS/s: 
+4043.12
+PI BOGOS/s: 
+4504869.20
+MATRIX BOGOS/s: matrix
+1011.06
+rsa2048-sign pass 8719.8 sign/s
+rsa2048-verify pass 307246.2 verify/s
+dsa2048-sign pass 20623.5 sign/s
+dsa2048-verify pass 24291.8 verify/s
+FFT BOGOS/s: 
+4057.24
+PI BOGOS/s: 
+4505922.80
+MATRIX BOGOS/s: matrix
+1019.58
+rsa2048-sign pass 8714.8 sign/s
+rsa2048-verify pass 307635.9 verify/s
+dsa2048-sign pass 20631.7 sign/s
+dsa2048-verify pass 24307.0 verify/s
+FFT BOGOS/s: 
+4072.60
+PI BOGOS/s: 
+4502160.07
+MATRIX BOGOS/s: matrix
+1022.49
+rsa2048-sign pass 8719.0 sign/s
+rsa2048-verify pass 306659.2 verify/s
+dsa2048-sign pass 20570.7 sign/s
+dsa2048-verify pass 24440.4 verify/s
+FFT BOGOS/s: 
+4066.79
+PI BOGOS/s: 
+4504827.75
+MATRIX BOGOS/s: matrix
+1021.95
+rsa2048-sign pass 8668.3 sign/s
+rsa2048-verify pass 301896.7 verify/s
+dsa2048-sign pass 20628.9 sign/s
+dsa2048-verify pass 24439.8 verify/s
+FFT BOGOS/s: 
+4063.77
+PI BOGOS/s: 
+4501891.71
+MATRIX BOGOS/s: matrix
+1012.28
+rsa2048-sign pass 8703.7 sign/s
+rsa2048-verify pass 305394.9 verify/s
+dsa2048-sign pass 20622.9 sign/s
+dsa2048-verify pass 24300.9 verify/s
+FFT BOGOS/s: 
+4039.15
+PI BOGOS/s: 
+4505747.19
+MATRIX BOGOS/s: matrix
+1012.75
+rsa2048-sign pass 8715.4 sign/s
+rsa2048-verify pass 306518.8 verify/s
+dsa2048-sign pass 20634.2 sign/s
+dsa2048-verify pass 24548.7 verify/s
+FFT BOGOS/s: 
+4071.39
+PI BOGOS/s: 
+4504579.16
+MATRIX BOGOS/s: matrix
+1017.45
+rsa2048-sign pass 8715.8 sign/s
+rsa2048-verify pass 307667.8 verify/s
+dsa2048-sign pass 20625.7 sign/s
+dsa2048-verify pass 24542.4 verify/s
+FFT BOGOS/s: 
+4073.70
+PI BOGOS/s: 
+4502898.79
+MATRIX BOGOS/s: matrix
+1023.88
+rsa2048-sign pass 8718.3 sign/s
+rsa2048-verify pass 306874.6 verify/s
+dsa2048-sign pass 20544.9 sign/s
+dsa2048-verify pass 24536.3 verify/s
+FFT BOGOS/s: 
+4054.28
+PI BOGOS/s: 
+4504431.76
+MATRIX BOGOS/s: matrix
+1031.31
+rsa2048-sign pass 8690.7 sign/s
+rsa2048-verify pass 304538.0 verify/s
+dsa2048-sign pass 20634.8 sign/s
+dsa2048-verify pass 24510.3 verify/s
+FFT BOGOS/s: 
+4046.48
+PI BOGOS/s: 
+4505878.47
+MATRIX BOGOS/s: matrix
+1020.93
+rsa2048-sign pass 8713.3 sign/s
+rsa2048-verify pass 307688.0 verify/s
+dsa2048-sign pass 20609.0 sign/s
+dsa2048-verify pass 24468.3 verify/s
+FFT BOGOS/s: 
+4076.46
+PI BOGOS/s: 
+4505483.24
+MATRIX BOGOS/s: matrix
+1023.96
+rsa2048-sign pass 8694.0 sign/s
+rsa2048-verify pass 306511.7 verify/s
+dsa2048-sign pass 20595.9 sign/s
+dsa2048-verify pass 24475.5 verify/s
+FFT BOGOS/s: 
+4068.00
+PI BOGOS/s: 
+4505423.10
+MATRIX BOGOS/s: matrix
+1027.14
+rsa2048-sign pass 8720.5 sign/s
+rsa2048-verify pass 307598.3 verify/s
+dsa2048-sign pass 20625.8 sign/s
+dsa2048-verify pass 24522.2 verify/s
+FFT BOGOS/s: 
+4066.55
+PI BOGOS/s: 
+4505559.94
+MATRIX BOGOS/s: matrix
+1016.27
