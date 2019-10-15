@@ -35,7 +35,6 @@
     command: /users/mirkoszy/master_thesis/prepare_vm.sh
     become: yes
 
-
 ######## DOCKER ###########
 - hosts: docker
   remote_user: mirkoszy
