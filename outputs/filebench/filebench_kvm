@@ -1,0 +1,796 @@
+Filebench Version 1.4.9.1
+ 6570: 0.000: Allocated 170MB of shared memory
+ 6570: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6570: 0.002: Creating/pre-allocating files and filesets
+ 6570: 0.002: File largefile1: 5120.000MB
+ 6570: 0.002: Re-using file largefile1.
+ 6570: 0.002: Creating file largefile1...
+ 6572: 0.002: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6570: 0.002: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6570: 0.002: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6573: 0.000: Allocated 170MB of shared memory
+ 6573: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6573: 0.001: Creating/pre-allocating files and filesets
+ 6573: 0.001: File largefile1: 5120.000MB
+ 6573: 0.001: Re-using file largefile1.
+ 6573: 0.001: Creating file largefile1...
+ 6575: 0.001: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6573: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6573: 0.001: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6576: 0.000: Allocated 170MB of shared memory
+ 6576: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6576: 0.001: Creating/pre-allocating files and filesets
+ 6576: 0.001: File largefile1: 5120.000MB
+ 6576: 0.001: Re-using file largefile1.
+ 6576: 0.001: Creating file largefile1...
+ 6578: 0.001: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6576: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6576: 0.001: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6579: 0.000: Allocated 170MB of shared memory
+ 6579: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6579: 0.001: Creating/pre-allocating files and filesets
+ 6579: 0.001: File largefile1: 5120.000MB
+ 6579: 0.001: Re-using file largefile1.
+ 6579: 0.001: Creating file largefile1...
+ 6581: 0.001: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6579: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6579: 0.001: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6582: 0.000: Allocated 170MB of shared memory
+ 6582: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6582: 0.002: Creating/pre-allocating files and filesets
+ 6582: 0.002: File largefile1: 5120.000MB
+ 6582: 0.002: Re-using file largefile1.
+ 6582: 0.002: Creating file largefile1...
+ 6584: 0.002: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6582: 0.002: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6582: 0.002: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6585: 0.000: Allocated 170MB of shared memory
+ 6585: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6585: 0.001: Creating/pre-allocating files and filesets
+ 6585: 0.001: File largefile1: 5120.000MB
+ 6585: 0.001: Re-using file largefile1.
+ 6585: 0.001: Creating file largefile1...
+ 6587: 0.001: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6585: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6585: 0.001: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6588: 0.000: Allocated 170MB of shared memory
+ 6588: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6588: 0.001: Creating/pre-allocating files and filesets
+ 6588: 0.001: File largefile1: 5120.000MB
+ 6588: 0.001: Re-using file largefile1.
+ 6588: 0.001: Creating file largefile1...
+ 6590: 0.001: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6588: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6588: 0.001: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6591: 0.000: Allocated 170MB of shared memory
+ 6591: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6591: 0.001: Creating/pre-allocating files and filesets
+ 6591: 0.002: File largefile1: 5120.000MB
+ 6591: 0.002: Re-using file largefile1.
+ 6591: 0.002: Creating file largefile1...
+ 6593: 0.002: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6591: 0.002: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6591: 0.002: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6594: 0.000: Allocated 170MB of shared memory
+ 6594: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6594: 0.001: Creating/pre-allocating files and filesets
+ 6594: 0.001: File largefile1: 5120.000MB
+ 6594: 0.001: Re-using file largefile1.
+ 6594: 0.001: Creating file largefile1...
+ 6596: 0.001: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6594: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6594: 0.001: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6597: 0.000: Allocated 170MB of shared memory
+ 6597: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6597: 0.001: Creating/pre-allocating files and filesets
+ 6597: 0.001: File largefile1: 5120.000MB
+ 6597: 0.001: Re-using file largefile1.
+ 6597: 0.001: Creating file largefile1...
+ 6599: 0.001: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6597: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6597: 0.001: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6600: 0.000: Allocated 170MB of shared memory
+ 6600: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6600: 0.001: Creating/pre-allocating files and filesets
+ 6600: 0.001: File largefile1: 5120.000MB
+ 6600: 0.001: Re-using file largefile1.
+ 6600: 0.001: Creating file largefile1...
+ 6602: 0.001: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6600: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6600: 0.001: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6603: 0.000: Allocated 170MB of shared memory
+ 6603: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6603: 0.001: Creating/pre-allocating files and filesets
+ 6603: 0.001: File largefile1: 5120.000MB
+ 6603: 0.001: Re-using file largefile1.
+ 6603: 0.001: Creating file largefile1...
+ 6605: 0.001: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6603: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6603: 0.001: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6606: 0.000: Allocated 170MB of shared memory
+ 6606: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6606: 0.001: Creating/pre-allocating files and filesets
+ 6606: 0.001: File largefile1: 5120.000MB
+ 6606: 0.001: Re-using file largefile1.
+ 6606: 0.001: Creating file largefile1...
+ 6608: 0.001: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6606: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6606: 0.001: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6609: 0.000: Allocated 170MB of shared memory
+ 6609: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6609: 0.002: Creating/pre-allocating files and filesets
+ 6609: 0.002: File largefile1: 5120.000MB
+ 6609: 0.003: Re-using file largefile1.
+ 6609: 0.003: Creating file largefile1...
+ 6611: 0.003: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6609: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6609: 0.003: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6612: 0.000: Allocated 170MB of shared memory
+ 6612: 0.006: Random RW Version 3.0 personality successfully loaded
+ 6612: 0.006: Creating/pre-allocating files and filesets
+ 6612: 0.008: File largefile1: 5120.000MB
+ 6612: 0.008: Re-using file largefile1.
+ 6612: 0.008: Creating file largefile1...
+ 6614: 0.008: Attempted but failed to Re-use file /tmp/largefile1/00000001/00000001
+ 6612: 0.008: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6612: 0.008: waiting for fileset pre-allocation to finish
+Filebench Version 1.4.9.1
+ 6617: 0.000: Allocated 170MB of shared memory
+ 6617: 0.003: Random RW Version 3.0 personality successfully loaded
+ 6617: 0.003: Creating/pre-allocating files and filesets
+ 6617: 0.004: File largefile1: 5120.000MB
+ 6617: 0.004: Re-using file largefile1.
+ 6617: 0.004: Creating file largefile1...
+ 6617: 0.004: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6617: 0.004: waiting for fileset pre-allocation to finish
+ 6620: 0.005: Starting 1 rand-rw instances
+ 6621: 0.007: Starting 1 rand-w-thread threads
+ 6621: 0.007: Starting 1 rand-r-thread threads
+ 6617: 1.008: Running...
+ 6617: 61.020: Run took 60 seconds...
+ 6617: 61.020: Per-Operation Breakdown
+rand-write1          199590ops     3326ops/s  26.0mb/s      0.3ms/op       95us/op-cpu [0ms - 173ms]
+rand-read1           459769ops     7661ops/s  59.8mb/s      0.1ms/op       35us/op-cpu [0ms - 15078ms]
+ 6617: 61.020: IO Summary: 659359 ops, 10987.188 ops/s, (7661/3326 r/w),  85.8mb/s,     33us cpu/op,   0.1ms latency
+ 6617: 61.020: Shutting down processes
+Filebench Version 1.4.9.1
+ 6625: 0.000: Allocated 170MB of shared memory
+ 6625: 0.020: Random RW Version 3.0 personality successfully loaded
+ 6625: 0.021: Creating/pre-allocating files and filesets
+ 6625: 0.021: File largefile1: 5120.000MB
+ 6625: 0.021: Re-using file largefile1.
+ 6625: 0.021: Creating file largefile1...
+ 6625: 0.022: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6625: 0.022: waiting for fileset pre-allocation to finish
+ 6628: 0.022: Starting 1 rand-rw instances
+ 6629: 0.025: Starting 1 rand-w-thread threads
+ 6629: 0.026: Starting 1 rand-r-thread threads
+ 6625: 1.026: Running...
+ 6625: 61.039: Run took 60 seconds...
+ 6625: 61.039: Per-Operation Breakdown
+rand-write1          78884ops     1314ops/s  10.3mb/s      0.7ms/op      213us/op-cpu [0ms - 407ms]
+rand-read1           441988ops     7365ops/s  57.5mb/s      0.0ms/op       26us/op-cpu [0ms - 6458ms]
+ 6625: 61.039: IO Summary: 520872 ops, 8679.455 ops/s, (7365/1314 r/w),  67.8mb/s,     32us cpu/op,   0.1ms latency
+ 6625: 61.039: Shutting down processes
+Filebench Version 1.4.9.1
+ 6637: 0.000: Allocated 170MB of shared memory
+ 6637: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6637: 0.002: Creating/pre-allocating files and filesets
+ 6637: 0.002: File largefile1: 5120.000MB
+ 6637: 0.002: Re-using file largefile1.
+ 6637: 0.002: Creating file largefile1...
+ 6637: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6637: 0.003: waiting for fileset pre-allocation to finish
+ 6640: 0.003: Starting 1 rand-rw instances
+ 6641: 0.006: Starting 1 rand-w-thread threads
+ 6641: 0.007: Starting 1 rand-r-thread threads
+ 6637: 1.007: Running...
+ 6637: 61.019: Run took 60 seconds...
+ 6637: 61.019: Per-Operation Breakdown
+rand-write1          136453ops     2274ops/s  17.8mb/s      0.4ms/op      232us/op-cpu [0ms - 177ms]
+rand-read1           886197ops    14767ops/s 115.4mb/s      0.0ms/op       23us/op-cpu [0ms - 11157ms]
+ 6637: 61.019: IO Summary: 1022650 ops, 17040.943 ops/s, (14767/2274 r/w), 133.1mb/s,     31us cpu/op,   0.1ms latency
+ 6637: 61.019: Shutting down processes
+Filebench Version 1.4.9.1
+ 6645: 0.000: Allocated 170MB of shared memory
+ 6645: 0.016: Random RW Version 3.0 personality successfully loaded
+ 6645: 0.016: Creating/pre-allocating files and filesets
+ 6645: 0.017: File largefile1: 5120.000MB
+ 6645: 0.017: Re-using file largefile1.
+ 6645: 0.017: Creating file largefile1...
+ 6645: 0.017: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6645: 0.017: waiting for fileset pre-allocation to finish
+ 6648: 0.018: Starting 1 rand-rw instances
+ 6649: 0.020: Starting 1 rand-w-thread threads
+ 6649: 0.021: Starting 1 rand-r-thread threads
+ 6645: 1.021: Running...
+ 6645: 61.033: Run took 60 seconds...
+ 6645: 61.033: Per-Operation Breakdown
+rand-write1          74418ops     1240ops/s   9.7mb/s      0.7ms/op      528us/op-cpu [0ms - 203ms]
+rand-read1           1434248ops    23900ops/s 186.7mb/s      0.0ms/op       16us/op-cpu [0ms - 14426ms]
+ 6645: 61.033: IO Summary: 1508666 ops, 25139.672 ops/s, (23900/1240 r/w), 196.4mb/s,     26us cpu/op,   0.1ms latency
+ 6645: 61.033: Shutting down processes
+Filebench Version 1.4.9.1
+ 6653: 0.000: Allocated 170MB of shared memory
+ 6653: 0.024: Random RW Version 3.0 personality successfully loaded
+ 6653: 0.024: Creating/pre-allocating files and filesets
+ 6653: 0.024: File largefile1: 5120.000MB
+ 6653: 0.024: Re-using file largefile1.
+ 6653: 0.024: Creating file largefile1...
+ 6653: 0.025: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6653: 0.025: waiting for fileset pre-allocation to finish
+ 6656: 0.025: Starting 1 rand-rw instances
+ 6657: 0.028: Starting 1 rand-w-thread threads
+ 6657: 0.028: Starting 1 rand-r-thread threads
+ 6653: 1.029: Running...
+ 6653: 61.039: Run took 60 seconds...
+ 6653: 61.040: Per-Operation Breakdown
+rand-write1          78578ops     1309ops/s  10.2mb/s      0.7ms/op      757us/op-cpu [0ms - 407ms]
+rand-read1           2295936ops    38259ops/s 298.9mb/s      0.0ms/op       15us/op-cpu [0ms - 3ms]
+ 6653: 61.040: IO Summary: 2374514 ops, 39568.491 ops/s, (38259/1309 r/w), 309.1mb/s,     26us cpu/op,   0.0ms latency
+ 6653: 61.040: Shutting down processes
+Filebench Version 1.4.9.1
+ 6661: 0.000: Allocated 170MB of shared memory
+ 6661: 0.026: Random RW Version 3.0 personality successfully loaded
+ 6661: 0.027: Creating/pre-allocating files and filesets
+ 6661: 0.027: File largefile1: 5120.000MB
+ 6661: 0.027: Re-using file largefile1.
+ 6661: 0.027: Creating file largefile1...
+ 6661: 0.028: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6661: 0.028: waiting for fileset pre-allocation to finish
+ 6664: 0.029: Starting 1 rand-rw instances
+ 6665: 0.032: Starting 1 rand-w-thread threads
+ 6665: 0.032: Starting 1 rand-r-thread threads
+ 6661: 1.033: Running...
+ 6661: 61.044: Run took 60 seconds...
+ 6661: 61.044: Per-Operation Breakdown
+rand-write1          60804ops     1013ops/s   7.9mb/s      0.9ms/op      985us/op-cpu [0ms - 204ms]
+rand-read1           2347793ops    39123ops/s 305.6mb/s      0.0ms/op       14us/op-cpu [0ms - 2ms]
+ 6661: 61.044: IO Summary: 2408597 ops, 40136.038 ops/s, (39123/1013 r/w), 313.6mb/s,     25us cpu/op,   0.0ms latency
+ 6661: 61.044: Shutting down processes
+Filebench Version 1.4.9.1
+ 6669: 0.000: Allocated 170MB of shared memory
+ 6669: 0.016: Random RW Version 3.0 personality successfully loaded
+ 6669: 0.016: Creating/pre-allocating files and filesets
+ 6669: 0.016: File largefile1: 5120.000MB
+ 6669: 0.016: Re-using file largefile1.
+ 6669: 0.017: Creating file largefile1...
+ 6669: 0.017: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6669: 0.017: waiting for fileset pre-allocation to finish
+ 6672: 0.018: Starting 1 rand-rw instances
+ 6673: 0.020: Starting 1 rand-w-thread threads
+ 6673: 0.021: Starting 1 rand-r-thread threads
+ 6669: 1.021: Running...
+ 6669: 61.032: Run took 60 seconds...
+ 6669: 61.033: Per-Operation Breakdown
+rand-write1          63934ops     1065ops/s   8.3mb/s      0.9ms/op      938us/op-cpu [0ms - 407ms]
+rand-read1           2320554ops    38669ops/s 302.1mb/s      0.0ms/op       14us/op-cpu [0ms - 4ms]
+ 6669: 61.033: IO Summary: 2384488 ops, 39734.159 ops/s, (38669/1065 r/w), 310.4mb/s,     26us cpu/op,   0.0ms latency
+ 6669: 61.033: Shutting down processes
+Filebench Version 1.4.9.1
+ 6678: 0.000: Allocated 170MB of shared memory
+ 6678: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6678: 0.002: Creating/pre-allocating files and filesets
+ 6678: 0.002: File largefile1: 5120.000MB
+ 6678: 0.002: Re-using file largefile1.
+ 6678: 0.002: Creating file largefile1...
+ 6678: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6678: 0.003: waiting for fileset pre-allocation to finish
+ 6681: 0.003: Starting 1 rand-rw instances
+ 6682: 0.006: Starting 1 rand-w-thread threads
+ 6682: 0.007: Starting 1 rand-r-thread threads
+ 6678: 1.007: Running...
+ 6678: 61.018: Run took 60 seconds...
+ 6678: 61.018: Per-Operation Breakdown
+rand-write1          73605ops     1227ops/s   9.6mb/s      0.8ms/op      808us/op-cpu [0ms - 204ms]
+rand-read1           2305096ops    38412ops/s 300.1mb/s      0.0ms/op       14us/op-cpu [0ms - 4ms]
+ 6678: 61.018: IO Summary: 2378701 ops, 39638.147 ops/s, (38412/1227 r/w), 309.7mb/s,     26us cpu/op,   0.0ms latency
+ 6678: 61.018: Shutting down processes
+Filebench Version 1.4.9.1
+ 6686: 0.015: Allocated 170MB of shared memory
+ 6686: 0.017: Random RW Version 3.0 personality successfully loaded
+ 6686: 0.017: Creating/pre-allocating files and filesets
+ 6686: 0.017: File largefile1: 5120.000MB
+ 6686: 0.017: Re-using file largefile1.
+ 6686: 0.018: Creating file largefile1...
+ 6686: 0.018: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6686: 0.018: waiting for fileset pre-allocation to finish
+ 6689: 0.018: Starting 1 rand-rw instances
+ 6690: 0.021: Starting 1 rand-w-thread threads
+ 6690: 0.021: Starting 1 rand-r-thread threads
+ 6686: 1.022: Running...
+ 6686: 61.033: Run took 60 seconds...
+ 6686: 61.033: Per-Operation Breakdown
+rand-write1          152742ops     2545ops/s  19.9mb/s      0.3ms/op      400us/op-cpu [0ms - 154ms]
+rand-read1           2154407ops    35900ops/s 280.5mb/s      0.0ms/op       17us/op-cpu [0ms - 133ms]
+ 6686: 61.033: IO Summary: 2307149 ops, 38445.505 ops/s, (35900/2545 r/w), 300.3mb/s,     28us cpu/op,   0.0ms latency
+ 6686: 61.033: Shutting down processes
+Filebench Version 1.4.9.1
+ 6694: 0.000: Allocated 170MB of shared memory
+ 6694: 0.032: Random RW Version 3.0 personality successfully loaded
+ 6694: 0.032: Creating/pre-allocating files and filesets
+ 6694: 0.032: File largefile1: 5120.000MB
+ 6694: 0.032: Re-using file largefile1.
+ 6694: 0.032: Creating file largefile1...
+ 6694: 0.033: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6694: 0.033: waiting for fileset pre-allocation to finish
+ 6697: 0.033: Starting 1 rand-rw instances
+ 6698: 0.036: Starting 1 rand-w-thread threads
+ 6698: 0.036: Starting 1 rand-r-thread threads
+ 6694: 1.036: Running...
+ 6694: 61.046: Run took 60 seconds...
+ 6694: 61.047: Per-Operation Breakdown
+rand-write1          65030ops     1084ops/s   8.5mb/s      0.9ms/op      934us/op-cpu [0ms - 207ms]
+rand-read1           2317508ops    38619ops/s 301.7mb/s      0.0ms/op       15us/op-cpu [0ms - 3ms]
+ 6694: 61.047: IO Summary: 2382538 ops, 39702.525 ops/s, (38619/1084 r/w), 310.2mb/s,     26us cpu/op,   0.0ms latency
+ 6694: 61.047: Shutting down processes
+Filebench Version 1.4.9.1
+ 6703: 0.000: Allocated 170MB of shared memory
+ 6703: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6703: 0.002: Creating/pre-allocating files and filesets
+ 6703: 0.002: File largefile1: 5120.000MB
+ 6703: 0.002: Re-using file largefile1.
+ 6703: 0.002: Creating file largefile1...
+ 6703: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6703: 0.003: waiting for fileset pre-allocation to finish
+ 6706: 0.003: Starting 1 rand-rw instances
+ 6707: 0.006: Starting 1 rand-w-thread threads
+ 6707: 0.006: Starting 1 rand-r-thread threads
+ 6703: 1.006: Running...
+ 6703: 61.016: Run took 60 seconds...
+ 6703: 61.016: Per-Operation Breakdown
+rand-write1          107651ops     1794ops/s  14.0mb/s      0.5ms/op      564us/op-cpu [0ms - 174ms]
+rand-read1           2210613ops    36838ops/s 287.8mb/s      0.0ms/op       16us/op-cpu [0ms - 4ms]
+ 6703: 61.016: IO Summary: 2318264 ops, 38631.922 ops/s, (36838/1794 r/w), 301.8mb/s,     27us cpu/op,   0.0ms latency
+ 6703: 61.016: Shutting down processes
+Filebench Version 1.4.9.1
+ 6711: 0.000: Allocated 170MB of shared memory
+ 6711: 0.024: Random RW Version 3.0 personality successfully loaded
+ 6711: 0.024: Creating/pre-allocating files and filesets
+ 6711: 0.024: File largefile1: 5120.000MB
+ 6711: 0.024: Re-using file largefile1.
+ 6711: 0.024: Creating file largefile1...
+ 6711: 0.025: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6711: 0.025: waiting for fileset pre-allocation to finish
+ 6715: 0.025: Starting 1 rand-rw instances
+ 6716: 0.028: Starting 1 rand-w-thread threads
+ 6716: 0.029: Starting 1 rand-r-thread threads
+ 6711: 1.029: Running...
+ 6711: 61.040: Run took 60 seconds...
+ 6711: 61.040: Per-Operation Breakdown
+rand-write1          78447ops     1307ops/s  10.2mb/s      0.7ms/op      769us/op-cpu [0ms - 411ms]
+rand-read1           2293848ops    38224ops/s 298.6mb/s      0.0ms/op       15us/op-cpu [0ms - 3ms]
+ 6711: 61.040: IO Summary: 2372295 ops, 39531.222 ops/s, (38224/1307 r/w), 308.8mb/s,     26us cpu/op,   0.0ms latency
+ 6711: 61.040: Shutting down processes
+Filebench Version 1.4.9.1
+ 6720: 0.000: Allocated 170MB of shared memory
+ 6720: 0.024: Random RW Version 3.0 personality successfully loaded
+ 6720: 0.024: Creating/pre-allocating files and filesets
+ 6720: 0.024: File largefile1: 5120.000MB
+ 6720: 0.024: Re-using file largefile1.
+ 6720: 0.024: Creating file largefile1...
+ 6720: 0.025: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6720: 0.025: waiting for fileset pre-allocation to finish
+ 6723: 0.025: Starting 1 rand-rw instances
+ 6724: 0.028: Starting 1 rand-w-thread threads
+ 6724: 0.029: Starting 1 rand-r-thread threads
+ 6720: 1.029: Running...
+ 6720: 61.040: Run took 60 seconds...
+ 6720: 61.041: Per-Operation Breakdown
+rand-write1          61161ops     1019ops/s   7.9mb/s      0.9ms/op      970us/op-cpu [0ms - 411ms]
+rand-read1           2339933ops    38992ops/s 304.6mb/s      0.0ms/op       14us/op-cpu [0ms - 3ms]
+ 6720: 61.041: IO Summary: 2401094 ops, 40010.926 ops/s, (38992/1019 r/w), 312.6mb/s,     25us cpu/op,   0.0ms latency
+ 6720: 61.041: Shutting down processes
+Filebench Version 1.4.9.1
+ 6728: 0.000: Allocated 170MB of shared memory
+ 6728: 0.016: Random RW Version 3.0 personality successfully loaded
+ 6728: 0.016: Creating/pre-allocating files and filesets
+ 6728: 0.016: File largefile1: 5120.000MB
+ 6728: 0.016: Re-using file largefile1.
+ 6728: 0.016: Creating file largefile1...
+ 6728: 0.017: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6728: 0.017: waiting for fileset pre-allocation to finish
+ 6731: 0.017: Starting 1 rand-rw instances
+ 6732: 0.020: Starting 1 rand-w-thread threads
+ 6732: 0.021: Starting 1 rand-r-thread threads
+ 6728: 1.021: Running...
+ 6728: 61.032: Run took 60 seconds...
+ 6728: 61.033: Per-Operation Breakdown
+rand-write1          69413ops     1157ops/s   9.0mb/s      0.8ms/op      866us/op-cpu [0ms - 408ms]
+rand-read1           2350566ops    39169ops/s 306.0mb/s      0.0ms/op       14us/op-cpu [0ms - 4ms]
+ 6728: 61.033: IO Summary: 2419979 ops, 40325.493 ops/s, (39169/1157 r/w), 315.0mb/s,     26us cpu/op,   0.0ms latency
+ 6728: 61.033: Shutting down processes
+Filebench Version 1.4.9.1
+ 6736: 0.000: Allocated 170MB of shared memory
+ 6736: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6736: 0.002: Creating/pre-allocating files and filesets
+ 6736: 0.002: File largefile1: 5120.000MB
+ 6736: 0.002: Re-using file largefile1.
+ 6736: 0.002: Creating file largefile1...
+ 6736: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6736: 0.003: waiting for fileset pre-allocation to finish
+ 6739: 0.003: Starting 1 rand-rw instances
+ 6740: 0.006: Starting 1 rand-w-thread threads
+ 6740: 0.006: Starting 1 rand-r-thread threads
+ 6736: 1.007: Running...
+ 6736: 61.017: Run took 60 seconds...
+ 6736: 61.018: Per-Operation Breakdown
+rand-write1          81636ops     1360ops/s  10.6mb/s      0.7ms/op      739us/op-cpu [0ms - 207ms]
+rand-read1           2339540ops    38986ops/s 304.6mb/s      0.0ms/op       14us/op-cpu [0ms - 4ms]
+ 6736: 61.018: IO Summary: 2421176 ops, 40345.951 ops/s, (38986/1360 r/w), 315.2mb/s,     26us cpu/op,   0.0ms latency
+ 6736: 61.018: Shutting down processes
+Filebench Version 1.4.9.1
+ 6744: 0.000: Allocated 170MB of shared memory
+ 6744: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6744: 0.002: Creating/pre-allocating files and filesets
+ 6744: 0.002: File largefile1: 5120.000MB
+ 6744: 0.002: Re-using file largefile1.
+ 6744: 0.002: Creating file largefile1...
+ 6744: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6744: 0.003: waiting for fileset pre-allocation to finish
+ 6747: 0.003: Starting 1 rand-rw instances
+ 6748: 0.006: Starting 1 rand-w-thread threads
+ 6748: 0.007: Starting 1 rand-r-thread threads
+ 6744: 1.007: Running...
+ 6744: 61.019: Run took 60 seconds...
+ 6744: 61.019: Per-Operation Breakdown
+rand-write1          81159ops     1352ops/s  10.6mb/s      0.7ms/op      731us/op-cpu [0ms - 204ms]
+rand-read1           2267609ops    37786ops/s 295.2mb/s      0.0ms/op       15us/op-cpu [0ms - 204ms]
+ 6744: 61.019: IO Summary: 2348768 ops, 39138.856 ops/s, (37786/1352 r/w), 305.8mb/s,     26us cpu/op,   0.0ms latency
+ 6744: 61.019: Shutting down processes
+Filebench Version 1.4.9.1
+ 6752: 0.000: Allocated 170MB of shared memory
+ 6752: 0.036: Random RW Version 3.0 personality successfully loaded
+ 6752: 0.036: Creating/pre-allocating files and filesets
+ 6752: 0.037: File largefile1: 5120.000MB
+ 6752: 0.037: Re-using file largefile1.
+ 6752: 0.037: Creating file largefile1...
+ 6752: 0.038: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6752: 0.038: waiting for fileset pre-allocation to finish
+ 6755: 0.038: Starting 1 rand-rw instances
+ 6756: 0.041: Starting 1 rand-w-thread threads
+ 6756: 0.041: Starting 1 rand-r-thread threads
+ 6752: 1.041: Running...
+ 6752: 61.052: Run took 60 seconds...
+ 6752: 61.053: Per-Operation Breakdown
+rand-write1          94544ops     1575ops/s  12.3mb/s      0.6ms/op      639us/op-cpu [0ms - 3080ms]
+rand-read1           2236929ops    37276ops/s 291.2mb/s      0.0ms/op       15us/op-cpu [0ms - 3ms]
+ 6752: 61.053: IO Summary: 2331473 ops, 38850.985 ops/s, (37276/1575 r/w), 303.5mb/s,     27us cpu/op,   0.0ms latency
+ 6752: 61.053: Shutting down processes
+Filebench Version 1.4.9.1
+ 6761: 0.000: Allocated 170MB of shared memory
+ 6761: 0.024: Random RW Version 3.0 personality successfully loaded
+ 6761: 0.024: Creating/pre-allocating files and filesets
+ 6761: 0.025: File largefile1: 5120.000MB
+ 6761: 0.025: Re-using file largefile1.
+ 6761: 0.025: Creating file largefile1...
+ 6761: 0.025: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6761: 0.025: waiting for fileset pre-allocation to finish
+ 6764: 0.025: Starting 1 rand-rw instances
+ 6765: 0.029: Starting 1 rand-w-thread threads
+ 6765: 0.029: Starting 1 rand-r-thread threads
+ 6761: 1.029: Running...
+ 6761: 61.040: Run took 60 seconds...
+ 6761: 61.040: Per-Operation Breakdown
+rand-write1          95317ops     1588ops/s  12.4mb/s      0.6ms/op      632us/op-cpu [0ms - 407ms]
+rand-read1           2335296ops    38915ops/s 304.0mb/s      0.0ms/op       15us/op-cpu [0ms - 2ms]
+ 6761: 61.040: IO Summary: 2430613 ops, 40503.328 ops/s, (38915/1588 r/w), 316.4mb/s,     26us cpu/op,   0.0ms latency
+ 6761: 61.040: Shutting down processes
+Filebench Version 1.4.9.1
+ 6769: 0.000: Allocated 170MB of shared memory
+ 6769: 0.001: Random RW Version 3.0 personality successfully loaded
+ 6769: 0.001: Creating/pre-allocating files and filesets
+ 6769: 0.001: File largefile1: 5120.000MB
+ 6769: 0.001: Re-using file largefile1.
+ 6769: 0.001: Creating file largefile1...
+ 6769: 0.001: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6769: 0.001: waiting for fileset pre-allocation to finish
+ 6772: 0.002: Starting 1 rand-rw instances
+ 6773: 0.004: Starting 1 rand-w-thread threads
+ 6773: 0.004: Starting 1 rand-r-thread threads
+ 6769: 1.005: Running...
+ 6769: 61.016: Run took 60 seconds...
+ 6769: 61.016: Per-Operation Breakdown
+rand-write1          75321ops     1255ops/s   9.8mb/s      0.7ms/op      788us/op-cpu [0ms - 407ms]
+rand-read1           2391321ops    39848ops/s 311.3mb/s      0.0ms/op       14us/op-cpu [0ms - 3ms]
+ 6769: 61.016: IO Summary: 2466642 ops, 41103.346 ops/s, (39848/1255 r/w), 321.1mb/s,     25us cpu/op,   0.0ms latency
+ 6769: 61.016: Shutting down processes
+Filebench Version 1.4.9.1
+ 6777: 0.000: Allocated 170MB of shared memory
+ 6777: 0.012: Random RW Version 3.0 personality successfully loaded
+ 6777: 0.012: Creating/pre-allocating files and filesets
+ 6777: 0.013: File largefile1: 5120.000MB
+ 6777: 0.013: Re-using file largefile1.
+ 6777: 0.013: Creating file largefile1...
+ 6777: 0.013: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6777: 0.013: waiting for fileset pre-allocation to finish
+ 6780: 0.014: Starting 1 rand-rw instances
+ 6781: 0.016: Starting 1 rand-w-thread threads
+ 6781: 0.016: Starting 1 rand-r-thread threads
+ 6777: 1.016: Running...
+ 6777: 61.026: Run took 60 seconds...
+ 6777: 61.027: Per-Operation Breakdown
+rand-write1          90166ops     1503ops/s  11.7mb/s      0.6ms/op      647us/op-cpu [0ms - 407ms]
+rand-read1           2256526ops    37603ops/s 293.8mb/s      0.0ms/op       14us/op-cpu [0ms - 4ms]
+ 6777: 61.027: IO Summary: 2346692 ops, 39105.297 ops/s, (37603/1503 r/w), 305.5mb/s,     26us cpu/op,   0.0ms latency
+ 6777: 61.027: Shutting down processes
+Filebench Version 1.4.9.1
+ 6785: 0.000: Allocated 170MB of shared memory
+ 6785: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6785: 0.002: Creating/pre-allocating files and filesets
+ 6785: 0.002: File largefile1: 5120.000MB
+ 6785: 0.002: Re-using file largefile1.
+ 6785: 0.002: Creating file largefile1...
+ 6785: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6785: 0.003: waiting for fileset pre-allocation to finish
+ 6788: 0.003: Starting 1 rand-rw instances
+ 6789: 0.006: Starting 1 rand-w-thread threads
+ 6789: 0.006: Starting 1 rand-r-thread threads
+ 6785: 1.007: Running...
+ 6785: 61.018: Run took 60 seconds...
+ 6785: 61.018: Per-Operation Breakdown
+rand-write1          96961ops     1616ops/s  12.6mb/s      0.6ms/op      618us/op-cpu [0ms - 407ms]
+rand-read1           2261128ops    37679ops/s 294.4mb/s      0.0ms/op       15us/op-cpu [0ms - 6ms]
+ 6785: 61.018: IO Summary: 2358089 ops, 39294.283 ops/s, (37679/1616 r/w), 307.0mb/s,     26us cpu/op,   0.0ms latency
+ 6785: 61.018: Shutting down processes
+Filebench Version 1.4.9.1
+ 6794: 0.000: Allocated 170MB of shared memory
+ 6794: 0.041: Random RW Version 3.0 personality successfully loaded
+ 6794: 0.041: Creating/pre-allocating files and filesets
+ 6794: 0.041: File largefile1: 5120.000MB
+ 6794: 0.041: Re-using file largefile1.
+ 6794: 0.041: Creating file largefile1...
+ 6794: 0.042: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6794: 0.042: waiting for fileset pre-allocation to finish
+ 6797: 0.043: Starting 1 rand-rw instances
+ 6798: 0.046: Starting 1 rand-w-thread threads
+ 6798: 0.046: Starting 1 rand-r-thread threads
+ 6794: 1.047: Running...
+ 6794: 61.054: Run took 60 seconds...
+ 6794: 61.055: Per-Operation Breakdown
+rand-write1          84131ops     1402ops/s  10.9mb/s      0.7ms/op      716us/op-cpu [0ms - 207ms]
+rand-read1           2287352ops    38118ops/s 297.8mb/s      0.0ms/op       15us/op-cpu [0ms - 3ms]
+ 6794: 61.055: IO Summary: 2371483 ops, 39519.709 ops/s, (38118/1402 r/w), 308.7mb/s,     26us cpu/op,   0.0ms latency
+ 6794: 61.055: Shutting down processes
+Filebench Version 1.4.9.1
+ 6802: 0.000: Allocated 170MB of shared memory
+ 6802: 0.016: Random RW Version 3.0 personality successfully loaded
+ 6802: 0.016: Creating/pre-allocating files and filesets
+ 6802: 0.016: File largefile1: 5120.000MB
+ 6802: 0.016: Re-using file largefile1.
+ 6802: 0.016: Creating file largefile1...
+ 6802: 0.017: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6802: 0.018: waiting for fileset pre-allocation to finish
+ 6805: 0.018: Starting 1 rand-rw instances
+ 6806: 0.021: Starting 1 rand-w-thread threads
+ 6806: 0.021: Starting 1 rand-r-thread threads
+ 6802: 1.022: Running...
+ 6802: 61.034: Run took 60 seconds...
+ 6802: 61.034: Per-Operation Breakdown
+rand-write1          72903ops     1215ops/s   9.5mb/s      0.7ms/op      799us/op-cpu [0ms - 411ms]
+rand-read1           2353890ops    39224ops/s 306.4mb/s      0.0ms/op       14us/op-cpu [0ms - 2ms]
+ 6802: 61.034: IO Summary: 2426793 ops, 40438.955 ops/s, (39224/1215 r/w), 315.9mb/s,     25us cpu/op,   0.0ms latency
+ 6802: 61.034: Shutting down processes
+Filebench Version 1.4.9.1
+ 6810: 0.000: Allocated 170MB of shared memory
+ 6810: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6810: 0.002: Creating/pre-allocating files and filesets
+ 6810: 0.002: File largefile1: 5120.000MB
+ 6810: 0.002: Re-using file largefile1.
+ 6810: 0.002: Creating file largefile1...
+ 6810: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6810: 0.003: waiting for fileset pre-allocation to finish
+ 6813: 0.003: Starting 1 rand-rw instances
+ 6814: 0.006: Starting 1 rand-w-thread threads
+ 6814: 0.007: Starting 1 rand-r-thread threads
+ 6810: 1.007: Running...
+ 6810: 61.018: Run took 60 seconds...
+ 6810: 61.018: Per-Operation Breakdown
+rand-write1          87021ops     1450ops/s  11.3mb/s      0.6ms/op      690us/op-cpu [0ms - 207ms]
+rand-read1           2330757ops    38839ops/s 303.4mb/s      0.0ms/op       14us/op-cpu [0ms - 4ms]
+ 6810: 61.018: IO Summary: 2417778 ops, 40289.403 ops/s, (38839/1450 r/w), 314.7mb/s,     26us cpu/op,   0.0ms latency
+ 6810: 61.018: Shutting down processes
+Filebench Version 1.4.9.1
+ 6818: 0.000: Allocated 170MB of shared memory
+ 6818: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6818: 0.002: Creating/pre-allocating files and filesets
+ 6818: 0.002: File largefile1: 5120.000MB
+ 6818: 0.002: Re-using file largefile1.
+ 6818: 0.002: Creating file largefile1...
+ 6818: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6818: 0.003: waiting for fileset pre-allocation to finish
+ 6821: 0.003: Starting 1 rand-rw instances
+ 6822: 0.005: Starting 1 rand-w-thread threads
+ 6822: 0.005: Starting 1 rand-r-thread threads
+ 6818: 1.006: Running...
+ 6818: 61.017: Run took 60 seconds...
+ 6818: 61.017: Per-Operation Breakdown
+rand-write1          77499ops     1291ops/s  10.1mb/s      0.7ms/op      776us/op-cpu [0ms - 207ms]
+rand-read1           2387576ops    39786ops/s 310.8mb/s      0.0ms/op       14us/op-cpu [0ms - 3ms]
+ 6818: 61.017: IO Summary: 2465075 ops, 41077.279 ops/s, (39786/1291 r/w), 320.9mb/s,     25us cpu/op,   0.0ms latency
+ 6818: 61.017: Shutting down processes
+Filebench Version 1.4.9.1
+ 6826: 0.000: Allocated 170MB of shared memory
+ 6826: 0.024: Random RW Version 3.0 personality successfully loaded
+ 6826: 0.024: Creating/pre-allocating files and filesets
+ 6826: 0.024: File largefile1: 5120.000MB
+ 6826: 0.024: Re-using file largefile1.
+ 6826: 0.024: Creating file largefile1...
+ 6826: 0.025: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6826: 0.025: waiting for fileset pre-allocation to finish
+ 6829: 0.025: Starting 1 rand-rw instances
+ 6830: 0.028: Starting 1 rand-w-thread threads
+ 6830: 0.028: Starting 1 rand-r-thread threads
+ 6826: 1.029: Running...
+ 6826: 61.037: Run took 60 seconds...
+ 6826: 61.038: Per-Operation Breakdown
+rand-write1          89135ops     1485ops/s  11.6mb/s      0.6ms/op      670us/op-cpu [0ms - 203ms]
+rand-read1           2197648ops    36622ops/s 286.1mb/s      0.0ms/op       15us/op-cpu [0ms - 3ms]
+ 6826: 61.038: IO Summary: 2286783 ops, 38107.733 ops/s, (36622/1485 r/w), 297.7mb/s,     27us cpu/op,   0.0ms latency
+ 6826: 61.038: Shutting down processes
+Filebench Version 1.4.9.1
+ 6835: 0.000: Allocated 170MB of shared memory
+ 6835: 0.024: Random RW Version 3.0 personality successfully loaded
+ 6835: 0.024: Creating/pre-allocating files and filesets
+ 6835: 0.024: File largefile1: 5120.000MB
+ 6835: 0.024: Re-using file largefile1.
+ 6835: 0.025: Creating file largefile1...
+ 6835: 0.025: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6835: 0.025: waiting for fileset pre-allocation to finish
+ 6838: 0.025: Starting 1 rand-rw instances
+ 6839: 0.028: Starting 1 rand-w-thread threads
+ 6839: 0.029: Starting 1 rand-r-thread threads
+ 6835: 1.029: Running...
+ 6835: 61.039: Run took 60 seconds...
+ 6835: 61.039: Per-Operation Breakdown
+rand-write1          86354ops     1439ops/s  11.2mb/s      0.6ms/op      690us/op-cpu [0ms - 206ms]
+rand-read1           2267770ops    37790ops/s 295.2mb/s      0.0ms/op       15us/op-cpu [0ms - 14ms]
+ 6835: 61.039: IO Summary: 2354124 ops, 39229.161 ops/s, (37790/1439 r/w), 306.5mb/s,     26us cpu/op,   0.0ms latency
+ 6835: 61.040: Shutting down processes
+Filebench Version 1.4.9.1
+ 6843: 0.000: Allocated 170MB of shared memory
+ 6843: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6843: 0.002: Creating/pre-allocating files and filesets
+ 6843: 0.032: File largefile1: 5120.000MB
+ 6843: 0.032: Re-using file largefile1.
+ 6843: 0.032: Creating file largefile1...
+ 6843: 0.033: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6843: 0.033: waiting for fileset pre-allocation to finish
+ 6846: 0.033: Starting 1 rand-rw instances
+ 6847: 0.036: Starting 1 rand-w-thread threads
+ 6847: 0.037: Starting 1 rand-r-thread threads
+ 6843: 1.037: Running...
+ 6843: 61.048: Run took 60 seconds...
+ 6843: 61.048: Per-Operation Breakdown
+rand-write1          60374ops     1006ops/s   7.8mb/s      0.9ms/op      991us/op-cpu [0ms - 206ms]
+rand-read1           2319244ops    38647ops/s 301.9mb/s      0.0ms/op       14us/op-cpu [0ms - 2ms]
+ 6843: 61.049: IO Summary: 2379617 ops, 39652.997 ops/s, (38647/1006 r/w), 309.8mb/s,     25us cpu/op,   0.0ms latency
+ 6843: 61.049: Shutting down processes
+Filebench Version 1.4.9.1
+ 6851: 0.000: Allocated 170MB of shared memory
+ 6851: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6851: 0.002: Creating/pre-allocating files and filesets
+ 6851: 0.002: File largefile1: 5120.000MB
+ 6851: 0.002: Re-using file largefile1.
+ 6851: 0.002: Creating file largefile1...
+ 6851: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6851: 0.003: waiting for fileset pre-allocation to finish
+ 6854: 0.003: Starting 1 rand-rw instances
+ 6855: 0.006: Starting 1 rand-w-thread threads
+ 6855: 0.007: Starting 1 rand-r-thread threads
+ 6851: 1.007: Running...
+ 6851: 61.018: Run took 60 seconds...
+ 6851: 61.567: Per-Operation Breakdown
+rand-write1          130900ops     2162ops/s  16.9mb/s      0.4ms/op      438us/op-cpu [0ms - 3067ms]
+rand-read1           2033778ops    33583ops/s 262.4mb/s      0.0ms/op       16us/op-cpu [0ms - 99ms]
+ 6851: 61.567: IO Summary: 2164678 ops, 35744.687 ops/s, (33583/2162 r/w), 279.2mb/s,     27us cpu/op,   0.0ms latency
+ 6851: 61.567: Shutting down processes
+Filebench Version 1.4.9.1
+ 6859: 0.000: Allocated 170MB of shared memory
+ 6859: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6859: 0.002: Creating/pre-allocating files and filesets
+ 6859: 0.023: File largefile1: 5120.000MB
+ 6859: 0.023: Re-using file largefile1.
+ 6859: 0.023: Creating file largefile1...
+ 6859: 0.024: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6859: 0.024: waiting for fileset pre-allocation to finish
+ 6862: 0.024: Starting 1 rand-rw instances
+ 6863: 0.027: Starting 1 rand-w-thread threads
+ 6863: 0.027: Starting 1 rand-r-thread threads
+ 6859: 1.028: Running...
+ 6859: 61.038: Run took 60 seconds...
+ 6859: 61.038: Per-Operation Breakdown
+rand-write1          93351ops     1556ops/s  12.1mb/s      0.6ms/op      636us/op-cpu [0ms - 207ms]
+rand-read1           2255271ops    37582ops/s 293.6mb/s      0.0ms/op       15us/op-cpu [0ms - 4ms]
+ 6859: 61.038: IO Summary: 2348621 ops, 39137.322 ops/s, (37582/1556 r/w), 305.8mb/s,     26us cpu/op,   0.0ms latency
+ 6859: 61.038: Shutting down processes
+Filebench Version 1.4.9.1
+ 6867: 0.000: Allocated 170MB of shared memory
+ 6867: 0.024: Random RW Version 3.0 personality successfully loaded
+ 6867: 0.025: Creating/pre-allocating files and filesets
+ 6867: 0.025: File largefile1: 5120.000MB
+ 6867: 0.025: Re-using file largefile1.
+ 6867: 0.025: Creating file largefile1...
+ 6867: 0.025: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6867: 0.026: waiting for fileset pre-allocation to finish
+ 6871: 0.026: Starting 1 rand-rw instances
+ 6872: 0.029: Starting 1 rand-w-thread threads
+ 6872: 0.030: Starting 1 rand-r-thread threads
+ 6867: 1.031: Running...
+ 6867: 61.042: Run took 60 seconds...
+ 6867: 61.043: Per-Operation Breakdown
+rand-write1          76952ops     1282ops/s  10.0mb/s      0.7ms/op      768us/op-cpu [0ms - 207ms]
+rand-read1           2330540ops    38835ops/s 303.4mb/s      0.0ms/op       14us/op-cpu [0ms - 3ms]
+ 6867: 61.043: IO Summary: 2407492 ops, 40117.481 ops/s, (38835/1282 r/w), 313.4mb/s,     25us cpu/op,   0.0ms latency
+ 6867: 61.043: Shutting down processes
+Filebench Version 1.4.9.1
+ 6876: 0.000: Allocated 170MB of shared memory
+ 6876: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6876: 0.002: Creating/pre-allocating files and filesets
+ 6876: 0.003: File largefile1: 5120.000MB
+ 6876: 0.003: Re-using file largefile1.
+ 6876: 0.003: Creating file largefile1...
+ 6876: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6876: 0.003: waiting for fileset pre-allocation to finish
+ 6879: 0.004: Starting 1 rand-rw instances
+ 6880: 0.007: Starting 1 rand-w-thread threads
+ 6880: 0.008: Starting 1 rand-r-thread threads
+ 6876: 1.008: Running...
+ 6876: 61.019: Run took 60 seconds...
+ 6876: 61.019: Per-Operation Breakdown
+rand-write1          75128ops     1252ops/s   9.8mb/s      0.7ms/op      773us/op-cpu [0ms - 411ms]
+rand-read1           2266650ops    37771ops/s 295.1mb/s      0.0ms/op       14us/op-cpu [0ms - 3ms]
+ 6876: 61.019: IO Summary: 2341778 ops, 39022.837 ops/s, (37771/1252 r/w), 304.9mb/s,     26us cpu/op,   0.0ms latency
+ 6876: 61.019: Shutting down processes
+Filebench Version 1.4.9.1
+ 6885: 0.000: Allocated 170MB of shared memory
+ 6885: 0.002: Random RW Version 3.0 personality successfully loaded
+ 6885: 0.002: Creating/pre-allocating files and filesets
+ 6885: 0.002: File largefile1: 5120.000MB
+ 6885: 0.002: Re-using file largefile1.
+ 6885: 0.002: Creating file largefile1...
+ 6885: 0.003: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6885: 0.003: waiting for fileset pre-allocation to finish
+ 6888: 0.003: Starting 1 rand-rw instances
+ 6889: 0.006: Starting 1 rand-w-thread threads
+ 6889: 0.006: Starting 1 rand-r-thread threads
+ 6885: 1.007: Running...
+ 6885: 61.018: Run took 60 seconds...
+ 6885: 61.018: Per-Operation Breakdown
+rand-write1          68489ops     1141ops/s   8.9mb/s      0.8ms/op      863us/op-cpu [0ms - 407ms]
+rand-read1           2316492ops    38601ops/s 301.6mb/s      0.0ms/op       14us/op-cpu [0ms - 2ms]
+ 6885: 61.018: IO Summary: 2384981 ops, 39742.718 ops/s, (38601/1141 r/w), 310.5mb/s,     25us cpu/op,   0.0ms latency
+ 6885: 61.018: Shutting down processes
+Filebench Version 1.4.9.1
+ 6893: 0.000: Allocated 170MB of shared memory
+ 6893: 0.017: Random RW Version 3.0 personality successfully loaded
+ 6893: 0.017: Creating/pre-allocating files and filesets
+ 6893: 0.017: File largefile1: 5120.000MB
+ 6893: 0.017: Re-using file largefile1.
+ 6893: 0.017: Creating file largefile1...
+ 6893: 0.018: Preallocated 1 of 1 of file largefile1 in 1 seconds
+ 6893: 0.018: waiting for fileset pre-allocation to finish
+ 6896: 0.018: Starting 1 rand-rw instances
+ 6897: 0.021: Starting 1 rand-w-thread threads
+ 6897: 0.021: Starting 1 rand-r-thread threads
+ 6893: 1.022: Running...
+ 6893: 61.031: Run took 60 seconds...
+ 6893: 61.031: Per-Operation Breakdown
+rand-write1          78445ops     1307ops/s  10.2mb/s      0.7ms/op      759us/op-cpu [0ms - 207ms]
+rand-read1           2314524ops    38570ops/s 301.3mb/s      0.0ms/op       14us/op-cpu [0ms - 4ms]
+ 6893: 61.032: IO Summary: 2392968 ops, 39876.789 ops/s, (38570/1307 r/w), 311.5mb/s,     26us cpu/op,   0.0ms latency
+ 6893: 61.032: Shutting down processes
