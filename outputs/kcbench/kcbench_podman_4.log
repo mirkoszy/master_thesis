@@ -1,0 +1,118 @@
+Downloading source: This might take a while... Done.
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1235 points  (e:809.71 sec  P:394%  U:2966.85 sec  S:225.19 sec)
+Run 2 (-j 32):      1243 points  (e:804.19 sec  P:395%  U:2959.24 sec  S:221.32 sec)
+Run 3 (-j 32):      1244 points  (e:803.71 sec  P:395%  U:2956.26 sec  S:221.95 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1236 points  (e:808.85 sec  P:394%  U:2963.65 sec  S:225.12 sec)
+Run 2 (-j 32):      1244 points  (e:803.76 sec  P:395%  U:2955.64 sec  S:221.96 sec)
+Run 3 (-j 32):      1242 points  (e:804.61 sec  P:395%  U:2959.51 sec  S:221.91 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1236 points  (e:808.58 sec  P:394%  U:2966.52 sec  S:223.24 sec)
+Run 2 (-j 32):      1243 points  (e:804.34 sec  P:395%  U:2957.46 sec  S:221.52 sec)
+Run 3 (-j 32):      1242 points  (e:804.55 sec  P:395%  U:2960.30 sec  S:221.29 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1235 points  (e:809.28 sec  P:394%  U:2966.15 sec  S:224.40 sec)
+Run 2 (-j 32):      1243 points  (e:804.48 sec  P:395%  U:2958.39 sec  S:222.65 sec)
+Run 3 (-j 32):      1240 points  (e:805.93 sec  P:395%  U:2962.62 sec  S:221.73 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1239 points  (e:806.72 sec  P:394%  U:2959.91 sec  S:223.57 sec)
+Run 2 (-j 32):      1242 points  (e:804.91 sec  P:394%  U:2956.69 sec  S:222.42 sec)
+Run 3 (-j 32):      1244 points  (e:803.79 sec  P:395%  U:2957.77 sec  S:221.15 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1238 points  (e:807.72 sec  P:394%  U:2961.43 sec  S:224.74 sec)
+Run 2 (-j 32):      1243 points  (e:804.42 sec  P:395%  U:2957.56 sec  S:222.94 sec)
+Run 3 (-j 32):      1246 points  (e:802.01 sec  P:395%  U:2949.75 sec  S:222.15 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1237 points  (e:808.23 sec  P:394%  U:2961.28 sec  S:225.20 sec)
+Run 2 (-j 32):      1244 points  (e:803.81 sec  P:395%  U:2957.61 sec  S:222.47 sec)
+Run 3 (-j 32):      1242 points  (e:804.88 sec  P:395%  U:2957.89 sec  S:223.83 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1237 points  (e:807.77 sec  P:394%  U:2963.44 sec  S:223.80 sec)
+Run 2 (-j 32):      1244 points  (e:803.71 sec  P:395%  U:2956.08 sec  S:220.68 sec)
+Run 3 (-j 32):      1243 points  (e:804.30 sec  P:395%  U:2957.59 sec  S:222.91 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1236 points  (e:808.60 sec  P:394%  U:2964.58 sec  S:225.19 sec)
+Run 2 (-j 32):      1242 points  (e:805.10 sec  P:395%  U:2959.28 sec  S:222.66 sec)
+Run 3 (-j 32):      1245 points  (e:802.92 sec  P:395%  U:2953.68 sec  S:222.34 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1237 points  (e:808.19 sec  P:394%  U:2961.58 sec  S:225.80 sec)
+Run 2 (-j 32):      1244 points  (e:803.24 sec  P:395%  U:2955.20 sec  S:222.12 sec)
+Run 3 (-j 32):      1243 points  (e:804.50 sec  P:395%  U:2962.54 sec  S:220.22 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1235 points  (e:809.35 sec  P:394%  U:2968.33 sec  S:224.32 sec)
+Run 2 (-j 32):      1244 points  (e:803.37 sec  P:395%  U:2955.87 sec  S:220.74 sec)
+Run 3 (-j 32):      1242 points  (e:804.72 sec  P:395%  U:2961.44 sec  S:222.43 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1237 points  (e:807.99 sec  P:394%  U:2958.15 sec  S:226.09 sec)
+Run 2 (-j 32):      1242 points  (e:804.98 sec  P:395%  U:2958.27 sec  S:223.43 sec)
+Run 3 (-j 32):      1243 points  (e:804.16 sec  P:395%  U:2961.49 sec  S:221.18 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1237 points  (e:808.30 sec  P:394%  U:2963.02 sec  S:224.93 sec)
+Run 2 (-j 32):      1243 points  (e:804.17 sec  P:394%  U:2954.67 sec  S:221.49 sec)
+Run 3 (-j 32):      1242 points  (e:805.03 sec  P:395%  U:2959.40 sec  S:223.44 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1235 points  (e:809.20 sec  P:394%  U:2962.86 sec  S:225.72 sec)
+Run 2 (-j 32):      1243 points  (e:804.00 sec  P:395%  U:2957.42 sec  S:222.55 sec)
+Run 3 (-j 32):      1242 points  (e:804.65 sec  P:395%  U:2960.52 sec  S:221.73 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1237 points  (e:808.27 sec  P:394%  U:2959.06 sec  S:225.54 sec)
+Run 2 (-j 32):      1244 points  (e:803.31 sec  P:395%  U:2955.35 sec  S:222.63 sec)
+Run 3 (-j 32):      1241 points  (e:805.36 sec  P:395%  U:2963.74 sec  S:221.90 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      1236 points  (e:808.99 sec  P:394%  U:2967.51 sec  S:225.24 sec)
+Run 2 (-j 32):      1243 points  (e:804.21 sec  P:395%  U:2958.98 sec  S:221.16 sec)
+Run 3 (-j 32):      1245 points  (e:802.84 sec  P:395%  U:2954.24 sec  S:220.72 sec)
+Linux running:      4.15.0-55-generic on x86_64 (dc2b888c3a51)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 32):      
