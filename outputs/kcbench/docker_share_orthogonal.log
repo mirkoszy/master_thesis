@@ -1,0 +1,15 @@
+Linux running:      4.15.0-55-generic on x86_64 (676c4d4d3614)
+Processor Cores:    16 -- Intel(R) Xeon(R) CPU D-1548 @ 2.00GHz
+Compiler:           gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Linux compiled:     4.14 (/root/.cache/kcbench/linux-4.14)
+Run 1 (-j 8):       4385 points  (e:228.04 sec  P:751%  U:1575.45 sec  S:139.05 sec)
+Run 2 (-j 8):       4441 points  (e:225.15 sec  P:755%  U:1564.77 sec  S:137.02 sec)
+Run 3 (-j 8):       4423 points  (e:226.05 sec  P:758%  U:1577.24 sec  S:138.27 sec)
+Run 4 (-j 8):       4404 points  (e:227.03 sec  P:761%  U:1590.22 sec  S:137.77 sec)
+Run 5 (-j 8):       4440 points  (e:225.22 sec  P:757%  U:1569.82 sec  S:136.38 sec)
+Run 6 (-j 8):       4410 points  (e:226.74 sec  P:757%  U:1580.03 sec  S:137.24 sec)
+Run 7 (-j 8):       4423 points  (e:226.06 sec  P:759%  U:1577.45 sec  S:138.75 sec)
+Run 8 (-j 8):       4398 points  (e:227.37 sec  P:757%  U:1585.15 sec  S:138.04 sec)
+Run 9 (-j 8):       4740 points  (e:210.93 sec  P:754%  U:1458.71 sec  S:133.51 sec)
+Run 10 (-j 8):      4833 points  (e:206.87 sec  P:753%  U:1426.29 sec  S:132.06 sec)
+
