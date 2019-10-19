@@ -1,0 +1,54 @@
+Forked child 0
+Forked child 1
+Forked child 2
+Forked child 3
+Forked child 4
+Forked child 5
+Forked child 6
++DTP:2048:private:rsa:10
++DTP:2048:private:rsa:10
++DTP:2048:private:rsa:10
++DTP:2048:private:rsa:10
++DTP:2048:private:rsa:10
++DTP:2048:private:rsa:10
++DTP:2048:private:rsa:10
++DTP:2048:private:rsa:10
++R1:10101:2048:10.00
++R1:10212:2048:10.00
++DTP:2048:public:rsa:10
++DTP:2048:public:rsa:10
++R1:10199:2048:10.00
++DTP:2048:public:rsa:10
++R1:8261:2048:10.00
++DTP:2048:public:rsa:10
++R1:9881:2048:10.00
++DTP:2048:public:rsa:10
++R1:5348:2048:10.00
++DTP:2048:public:rsa:10
++R1:5121:2048:10.00
++DTP:2048:public:rsa:10
++R1:6855:2048:10.00
++DTP:2048:public:rsa:10
++R2:245247:2048:10.00
++R2:206108:2048:10.00
++R2:314912:2048:10.00
++R2:347359:2048:10.00
++R2:322165:2048:10.00
++R2:226387:2048:10.00
++R2:189060:2048:10.00
++R2:363895:2048:10.00
+Forked child 7
+Got: +F2:2:2048:988.100000:32216.500000 from 0
+Got: +F2:2:2048:826.100000:34735.900000 from 1
+Got: +F2:2:2048:1019.900000:31491.200000 from 2
+Got: +F2:2:2048:534.800000:22638.700000 from 3
+Got: +F2:2:2048:1021.200000:24524.700000 from 4
+Got: +F2:2:2048:1010.100000:20610.800000 from 5
+Got: +F2:2:2048:512.100000:18906.000000 from 6
+Got: +F2:2:2048:685.500000:36389.500000 from 7
+OpenSSL 1.1.1  11 Sep 2018
+built on: Thu Jun 20 17:36:28 2019 UTC
+options:bn(64,64) rc4(16x,int) des(int) aes(partial) blowfish(ptr) 
+compiler: gcc -fPIC -pthread -m64 -Wa,--noexecstack -Wall -Wa,--noexecstack -g -O2 -fdebug-prefix-map=/build/openssl-cn9tZy/openssl-1.1.1=. -fstack-protector-strong -Wformat -Werror=format-security -DOPENSSL_USE_NODELETE -DL_ENDIAN -DOPENSSL_PIC -DOPENSSL_CPUID_OBJ -DOPENSSL_IA32_SSE2 -DOPENSSL_BN_ASM_MONT -DOPENSSL_BN_ASM_MONT5 -DOPENSSL_BN_ASM_GF2m -DSHA1_ASM -DSHA256_ASM -DSHA512_ASM -DKECCAK1600_ASM -DRC4_ASM -DMD5_ASM -DAES_ASM -DVPAES_ASM -DBSAES_ASM -DGHASH_ASM -DECP_NISTZ256_ASM -DX25519_ASM -DPADLOCK_ASM -DPOLY1305_ASM -DNDEBUG -Wdate-time -D_FORTIFY_SOURCE=2
+                  sign    verify    sign/s verify/s
+rsa 2048 bits 0.000152s 0.000005s   6597.8 221513.3
