@@ -10,4 +10,4 @@ for i in {1..34}; do
       "${OUTPUT}/${test}-output.txt" | tee -a "${RESULT_FILE}";
 done
 
-./kcbench -n 34 >> kcbench.log;
+./kcbench -n 34 -j 8 >> kcbench.log;
